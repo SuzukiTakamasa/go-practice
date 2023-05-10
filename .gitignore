@@ -1,0 +1,6 @@
+*
+!src/
+!src/*.go
+!.gitignore
+!.go-version
+!README.md
