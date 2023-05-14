@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("This is just a golang practice.")
+	fmt.Println("This is just a scenarigo practice.")
 }
