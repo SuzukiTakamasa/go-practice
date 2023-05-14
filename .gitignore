@@ -1,4 +1,6 @@
 *
+!scenarios/
+!scenarios/*.yaml
 !src/
 !src/*.go
 !.gitignore
